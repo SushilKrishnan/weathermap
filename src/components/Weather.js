@@ -1,4 +1,4 @@
-import bg from "/home/user/weathermap/weathermap/src/img/8562848_25501.jpg";
+import bg from "weathermap/src/img/8562848_25501.jpg";
 import React, { useState } from 'react';
 
 export default function Weather() {
