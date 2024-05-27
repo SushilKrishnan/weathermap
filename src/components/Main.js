@@ -1,4 +1,4 @@
-import bg from "weathermap/src/img/8562848_25501.jpg";
+import bg from "../img/8562848_25501.jpg";
 
 export default function Main() {
         const styles = {
