@@ -14,6 +14,9 @@ export default function Main() {
                                         <h1 class="font-mono text-2xl text-black">Weather app utilizing India's first crowd-supported weather infrastructure Weather Union!</h1>
                                 </div>
                         </div>
+                        <div class='absolute bottom-0 w-full'>
+                                <p class="text-center">Copyright &copy;2024 Sushil Krishnan. All Rights Reserved.</p>
+                        </div>
                 </div>
         )
 }
